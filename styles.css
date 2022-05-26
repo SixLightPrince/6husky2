@@ -1,0 +1,51 @@
+#title {
+  background-color: #ff4c68;
+}
+#features{
+  margin-top:100px;
+  margin-bottom: 100px;
+  padding:3% 13%;
+   text-align: center;
+}
+.check_img{
+  width:25%;
+}
+.bullseye_img{
+  width: 25%;
+}
+.heart_img{
+  width: 25%;
+}
+.intro {
+  font-family: "Montserrat";
+  color: white;
+  font-size: 3.5rem;
+  weight: bold;
+  line-height: 1;
+}
+.Nav_Bar {
+  margin-bottom: 100px;
+}
+.container-fulid {
+  padding: 3% 13%;
+}
+.Husky_brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
+  color: white;
+}
+.nav-link {
+  font-size: 1.5rem;
+  font-family: "Montserrat-Light"
+}
+.phone_img {
+  width: 60%;
+  transform: rotate(25deg);
+}
+.phone_img:hover {
+  transition: transform 4s;
+  transform: rotate(385deg);
+}
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
